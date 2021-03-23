@@ -1,0 +1,15 @@
+name: Memoet blog
+description: Notes about learning on the web
+meta_description: "Notes about learning on the web: spaced repetition, web development"
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 10
+baseurl: /
+domain_name: "https://blog.memoet.com"
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: "https://blog.memoet.com"
+author: "Memoet team"
