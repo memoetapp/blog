@@ -21,12 +21,12 @@ Ebbinghaus][1] - a German psychologist in 19th century.
 The best methods proposed by Ebbinghaus to increase the strength of memory
 are:
 
-- Better memory representation, such as mnemotic techniques
+- Better memory representation, such as mnemonic techniques
 
 - Repetition base on active recall, especially spaced repetition
 
 
-Mnemotic skills are effective but hard to attain. A more simple solution to
+Mnemonic skills are effective but hard to attain. A more simple solution to
 significantly decrease the effects of the forgetting curve is to spend time
 each day to remember things.
 
