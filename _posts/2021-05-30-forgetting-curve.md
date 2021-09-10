@@ -49,6 +49,6 @@ that a daily habit to exploit the spacing effect. Oh and give [Memoet][0]
 a try!
 
 
-[0]: https://memoet.com
+[0]: https://memoet.manhtai.com
 [1]: https://en.wikipedia.org/wiki/Hermann_Ebbinghaus
 [2]: /assets/images/ForgettingCurve.png

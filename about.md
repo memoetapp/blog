@@ -3,10 +3,10 @@ layout: page
 title: About us
 ---
 
-- Home page: [memoet.com](https://memoet.com)
+- Home page: [memoet.manhtai.com](https://memoet.manhtai.com)
 
-- Documentation: [docs.memoet.com](https://docs.memoet.com)
+- Documentation: [memoet.gitbook.io](https://memoet.gitbook.io)
 
 - GitHub: [github.com/memoetapp][https://github.com/memoetapp]
 
-- Email: [team@memoet.com](mailto:team@memoet.com)
+- Email: [memoet@manhtai.com](mailto:memoet@manhtai.com)

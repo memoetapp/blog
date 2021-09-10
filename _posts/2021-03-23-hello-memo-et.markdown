@@ -13,8 +13,8 @@ In the beginning, we have combined a quiz system (type answer & multiple choice
 question for now) with a spaced repetition algorithm (SuperMemo2) and built them
 right into notes.
 
-The app is already up and running at memoet.com, give it a try when you had
-the time.
+The app is already up and running at memoet.manhtai.com, give it a try when you
+had the time.
 
 That was the first step of a long journey. Along the way, we want to share
 things we are learning and building to make Memoet better. It will cover
