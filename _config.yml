@@ -6,10 +6,10 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 10
-baseurl: /
-domain_name: "https://blog.memoet.com"
+baseurl: /blog/
+domain_name: "https://memoetapp.github.io/blog/"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: "https://blog.memoet.com"
+url: "https://memoetapp.github.io/blog/"
 author: "Memoet team"
